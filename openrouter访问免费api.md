@@ -8,3 +8,6 @@
 地址：https://openrouter.ai/api/v1
 
 免费模型：deepseek/deepseek-r1-0528-qwen3-8b:free
+
+
+解决微信支付宝支付问题：https://zhuanlan.zhihu.com/p/1902150269241893722
